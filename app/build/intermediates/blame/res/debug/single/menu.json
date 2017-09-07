@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/build/intermediates/res/merged/debug/menu/main_menu.xml",
+        "source": "/Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/build/intermediates/res/merged/debug/menu/menu_search.xml",
+        "source": "/Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/res/menu/menu_search.xml"
+    }
+]

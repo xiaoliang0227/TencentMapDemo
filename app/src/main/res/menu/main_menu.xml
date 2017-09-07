@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:id="@+id/map_type">
+        <item
+            android:id="@+id/normal"
+            android:title="普通地图" />
+        <item
+            android:id="@+id/satellite"
+            android:title="卫星地图" />
+        <item
+            android:id="@+id/traffic_enable"
+            android:title="实况路况图层" />
+        <item
+            android:id="@+id/night_mode"
+            android:title="夜间模式" />
+
+        <item
+            android:id="@+id/navi_mode"
+            android:title="导航模式" />
+
+    </group>
+
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/ic_search_white_24dp"
+        android:title="检索"
+        app:showAsAction="always" />
+</menu>

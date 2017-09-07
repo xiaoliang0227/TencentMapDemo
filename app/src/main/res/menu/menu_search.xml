@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/show_result_in_map"
+        android:title="在地图上显示搜索结果"
+        app:showAsAction="always" />
+    <group android:id="@+id/regional">
+        <item
+            android:id="@+id/huangpu"
+            android:title="黄浦区" />
+        <item
+            android:id="@+id/xuhui"
+            android:title="徐汇区" />
+        <item
+            android:id="@+id/changning"
+            android:title="长宁区" />
+        <item
+            android:id="@+id/jingan"
+            android:title="静安区" />
+        <item
+            android:id="@+id/putuo"
+            android:title="普陀区" />
+        <item
+            android:id="@+id/hongkou"
+            android:title="虹口区" />
+        <item
+            android:id="@+id/yangpu"
+            android:title="杨浦区" />
+        <item
+            android:id="@+id/pudong"
+            android:title="浦东新区" />
+        <item
+            android:id="@+id/baoshan"
+            android:title="宝山区" />
+        <item
+            android:id="@+id/jiading"
+            android:title="嘉定区" />
+        <item
+            android:id="@+id/qingpu"
+            android:title="青浦区" />
+        <item
+            android:id="@+id/songjiang"
+            android:title="松江区" />
+        <item
+            android:id="@+id/minhang"
+            android:title="闵行区" />
+        <item
+            android:id="@+id/fengxian"
+            android:title="奉贤区" />
+        <item
+            android:id="@+id/jinshan"
+            android:title="金山区" />
+        <item
+            android:id="@+id/chongming"
+            android:title="崇明区" />
+    </group>
+
+</menu>

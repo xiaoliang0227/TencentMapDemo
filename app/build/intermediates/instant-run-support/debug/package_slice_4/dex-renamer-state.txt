@@ -1,0 +1,4 @@
+#Wed Sep 06 15:28:59 CST 2017
+base.0=/Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4
+renamed.0=classes.dex
+file.0=/Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex

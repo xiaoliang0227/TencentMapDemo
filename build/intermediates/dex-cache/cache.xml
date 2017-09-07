@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/libs/TencentMapSearch_v1.1.7.3207904.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="17990a58afc2d0787ed85411783a4b52b8b91407">
+        <dex dex="/Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/TencentMapSearch_v1.1.7.3207904_ef33fe644af73a7c7ff5389bfd7d329fa0f93e33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e2c46aac25cbd7a0aee7ea0e591066c5be56c3d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/libs/tencent_map_sdk_4.0.3.7b88a0e.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3a2b7a72b73c6506cab796240b80dbd5ae314614">
+        <dex dex="/Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/tencent_map_sdk_4.0.3.7b88a0e_20da20671449c67d13637ac3952d357a6272fe26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/libs/TencentLocationSDK_v6.1.2_r1df4baaa_170627_1056.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4cc528f813bf413f55f3f46ee73e50efb5b887e6">
+        <dex dex="/Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/TencentLocationSDK_v6.1.2_r1df4baaa_170627_1056_3507c5142533050f04140ed7810f56dd992b53ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ad72a036981684d51c712309e3ea0a22ca3d4e77">
+        <dex dex="/Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3284619d357bae85dce02710c3b92735771481a5/classes.dex" />
+    </item>
+
+</items>

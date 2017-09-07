@@ -1,0 +1,131 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml:2:1-49:12
+	package
+		ADDED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml:11:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml:13:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml:15:5-75
+	android:name
+		ADDED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml:15:22-72
+uses-permission#android.permission.READ_LOGS
+ADDED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml:17:5-68
+	android:name
+		ADDED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml:17:22-65
+application
+ADDED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml:20:5-47:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/zhaoyongliang/.android/build-cache/91ea84501b5e5f972ae033fa340ad5825cd400b3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/zhaoyongliang/.android/build-cache/92f52ee3724ef5cd3138b9cbd4f221f3ca9df7ab/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/zhaoyongliang/.android/build-cache/23f6d7b5da26beffbc87a8e979872de8ae5edf30/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/zhaoyongliang/.android/build-cache/fa55bc5ef3927ae5324839cfbff1c4067e860f76/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/zhaoyongliang/.android/build-cache/4c8c1bb87d29200d278c85125895c134e1107d21/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/zhaoyongliang/.android/build-cache/f8ab2839264abad601f85e5e87f48a9a666b29db/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/zhaoyongliang/.android/build-cache/77659ba170b81cd7eaa9c6325a6d2310af55d6ea/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/zhaoyongliang/.android/build-cache/34d3af3bb1570787adcfc266ef1c06741859e893/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/zhaoyongliang/.android/build-cache/ca8299ea6168a515dd5bffbe0e71502aca5c26a2/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/zhaoyongliang/.android/build-cache/835b8c22b2e089c052d6e7f6f814b6ab159cefef/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml:24:9-41
+	android:supportsRtl
+		ADDED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml:26:9-35
+	android:roundIcon
+		ADDED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml:25:9-54
+	android:allowBackup
+		ADDED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml:22:9-35
+	android:icon
+		ADDED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml:23:9-43
+	android:theme
+		ADDED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml:27:9-40
+	android:name
+		ADDED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml:21:9-40
+activity#com.zyl.tencentmapdemo.MainActivity
+ADDED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml:28:9-36:20
+	android:label
+		ADDED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml:29:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml:34:27-74
+activity#com.zyl.tencentmapdemo.SearchActivity
+ADDED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml:38:9-42:57
+	android:label
+		ADDED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml:40:13-31
+	android:parentActivityName
+		ADDED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml:41:13-55
+	android:windowSoftInputMode
+		ADDED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml:42:13-54
+	android:name
+		ADDED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml:39:13-43
+meta-data#TencentMapSDK
+ADDED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml:44:9-46:67
+	android:value
+		ADDED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml:46:13-64
+	android:name
+		ADDED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml:45:13-41
+uses-sdk
+INJECTED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/zhaoyongliang/.android/build-cache/91ea84501b5e5f972ae033fa340ad5825cd400b3/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/zhaoyongliang/.android/build-cache/92f52ee3724ef5cd3138b9cbd4f221f3ca9df7ab/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/zhaoyongliang/.android/build-cache/23f6d7b5da26beffbc87a8e979872de8ae5edf30/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/zhaoyongliang/.android/build-cache/fa55bc5ef3927ae5324839cfbff1c4067e860f76/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/zhaoyongliang/.android/build-cache/4c8c1bb87d29200d278c85125895c134e1107d21/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/zhaoyongliang/.android/build-cache/f8ab2839264abad601f85e5e87f48a9a666b29db/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/zhaoyongliang/.android/build-cache/77659ba170b81cd7eaa9c6325a6d2310af55d6ea/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/zhaoyongliang/.android/build-cache/34d3af3bb1570787adcfc266ef1c06741859e893/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/zhaoyongliang/.android/build-cache/ca8299ea6168a515dd5bffbe0e71502aca5c26a2/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/zhaoyongliang/.android/build-cache/835b8c22b2e089c052d6e7f6f814b6ab159cefef/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/zhaoyongliang/.android/build-cache/91ea84501b5e5f972ae033fa340ad5825cd400b3/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/zhaoyongliang/.android/build-cache/91ea84501b5e5f972ae033fa340ad5825cd400b3/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/zhaoyongliang/.android/build-cache/92f52ee3724ef5cd3138b9cbd4f221f3ca9df7ab/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/zhaoyongliang/.android/build-cache/23f6d7b5da26beffbc87a8e979872de8ae5edf30/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/zhaoyongliang/.android/build-cache/fa55bc5ef3927ae5324839cfbff1c4067e860f76/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/zhaoyongliang/.android/build-cache/4c8c1bb87d29200d278c85125895c134e1107d21/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/zhaoyongliang/.android/build-cache/f8ab2839264abad601f85e5e87f48a9a666b29db/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/zhaoyongliang/.android/build-cache/77659ba170b81cd7eaa9c6325a6d2310af55d6ea/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/zhaoyongliang/.android/build-cache/34d3af3bb1570787adcfc266ef1c06741859e893/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/zhaoyongliang/.android/build-cache/ca8299ea6168a515dd5bffbe0e71502aca5c26a2/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/zhaoyongliang/.android/build-cache/91ea84501b5e5f972ae033fa340ad5825cd400b3/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/zhaoyongliang/.android/build-cache/91ea84501b5e5f972ae033fa340ad5825cd400b3/output/AndroidManifest.xml:26:9-47

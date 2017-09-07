@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_search_white_24dp.xml",
+        "source": "/Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_search_white_24dp.xml"
+    },
+    {
+        "merged": "/Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_clear_black_24dp.xml",
+        "source": "/Users/zhaoyongliang/workspace/myandroid/TencentMapDemo/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_clear_black_24dp.xml"
+    }
+]
